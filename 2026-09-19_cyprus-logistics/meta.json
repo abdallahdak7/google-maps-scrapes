@@ -1,0 +1,13 @@
+{
+  "label": "cyprus-logistics",
+  "slug": "cyprus-logistics",
+  "kind": "main",
+  "created_at": "2026-09-19T06:42:42Z",
+  "status": "complete",
+  "query_count": 42,
+  "result_count": 524,
+  "format": "csv",
+  "depth": null,
+  "output_dir": "/Users/abdallah/Documents/Google Maps Scrapes/2026-09-19_cyprus-logistics",
+  "report_path": "/Users/abdallah/Documents/Google Maps Scrapes/2026-09-19_cyprus-logistics/report.html"
+}
