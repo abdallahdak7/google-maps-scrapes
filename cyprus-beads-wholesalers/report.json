@@ -1,0 +1,15 @@
+{
+  "title": "Cyprus Bulk Bead Suppliers (Budget)",
+  "subtitle": "Wholesale-style bead and findings shops for bags and jewelry — luxury jewelry brands removed",
+  "resultsFile": "curated-results.csv",
+  "regionLabel": "Area",
+  "areas": [
+    { "name": "Nicosia", "match": "nicosia|lefkosia|strovolos|lakatamia|egkomi|engomi|aglantzia|latsia" },
+    { "name": "Limassol", "match": "limassol|lemesos|ypsonas|polemidia|germasogeia" },
+    { "name": "Larnaca", "match": "larnaca|larnaka|livadia|aradippou|oroklini" },
+    { "name": "Paphos", "match": "paphos|pafos|geroskipou" },
+    { "name": "Famagusta", "match": "famagusta|ammochostos|paralimni|ayia napa" }
+  ],
+  "noiseCategoryPattern": "jewelry store|gift shop|toy|fishing|tattoo|souvenir",
+  "highlightCategoryPattern": "bead|craft|scrapbook|art supply|findings|wool"
+}

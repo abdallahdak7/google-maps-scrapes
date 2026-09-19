@@ -1,0 +1,73 @@
+{
+  "source": "results.csv",
+  "min_score": 75,
+  "criteria": "Bulk beads and findings for bags/jewelry; excludes luxury brands, jewelry boutiques, and non-bead shops.",
+  "cheapest_rank": "Score then fewer Google reviews (proxy for smaller budget suppliers).",
+  "count": 8,
+  "entries": [
+    {
+      "title": "Because Creativity Center Beads & Findings",
+      "score": 93,
+      "reason": "bead_store,bead_keywords,budget_size,local_retail",
+      "phone": "+357 99 685709",
+      "address": "Digeni Akrita 69, Nicosia, Lefkosia 1070, Cyprus",
+      "review_count": "4"
+    },
+    {
+      "title": "Beads & Wool",
+      "score": 93,
+      "reason": "bead_store,bead_keywords,budget_size,local_retail",
+      "phone": "+357 24 631310",
+      "address": "Peloponnisou 4, Larnaca, Larnaka 6042, Cyprus",
+      "review_count": "13"
+    },
+    {
+      "title": "Kombologadiko Cyprus | Kombologia Kipros",
+      "score": 87,
+      "reason": "bead_store,bead_keywords,budget_size",
+      "phone": "+357 25 108825",
+      "address": "Gladstonos 146, Limassol, Lemesos 3032, Cyprus",
+      "review_count": "12"
+    },
+    {
+      "title": "Suzukyoto Ltd",
+      "score": 87,
+      "reason": "bead_store,bead_keywords,budget_size",
+      "phone": "+357 22 755516",
+      "address": "Ayiou Antoniou 15, Strovolos, Lefkosia 2002, Cyprus",
+      "review_count": "48"
+    },
+    {
+      "title": "KOMBOLOGIA",
+      "score": 87,
+      "reason": "bead_store,bead_keywords,budget_size",
+      "phone": "+357 99 633559",
+      "address": "",
+      "review_count": "70"
+    },
+    {
+      "title": "Crafty Ideas Cyprus",
+      "score": 78,
+      "reason": "craft_supply,bag_jewelry_supply,bead_keywords,budget_size",
+      "phone": "+357 22 511455",
+      "address": "Kyriakou Matsi 32D, Nicosia, Lefkosia 1082, Cyprus",
+      "review_count": "14"
+    },
+    {
+      "title": "Decofrog Art Materials",
+      "score": 78,
+      "reason": "craft_supply,bag_jewelry_supply,bead_keywords,budget_size",
+      "phone": "+357 96 412027",
+      "address": "Vasileos Konstantinou 146-Shop 4, Limassol, Lemesos 3080, Cyprus",
+      "review_count": "36"
+    },
+    {
+      "title": "Balzar Crafts Store",
+      "score": 78,
+      "reason": "craft_supply,bag_jewelry_supply,bead_keywords,budget_size",
+      "phone": "+357 24 332856",
+      "address": "Paideias 8, Oroklini, Larnaka 7040, Cyprus",
+      "review_count": "72"
+    }
+  ]
+}

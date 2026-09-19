@@ -1,0 +1,14 @@
+{
+  "title": "Cyprus Freight & Sourcing Directory",
+  "subtitle": "Freight forwarders, sourcing agents, customs, logistics and shipping companies across Cyprus",
+  "regionLabel": "Area",
+  "areas": [
+    { "name": "Nicosia", "match": "nicosia|lefkosia|strovolos|lakatamia|egkomi|engomi|aglantzia|latsia|geri|tseri|kaimakli" },
+    { "name": "Limassol", "match": "limassol|lemesos|ypsonas|polemidia|mesa geitonia|germasogeia|agios athanasios" },
+    { "name": "Larnaca", "match": "larnaca|larnaka|livadia|aradippou|oroklini|dromolaxia" },
+    { "name": "Paphos", "match": "paphos|pafos|geroskipou|peyia|polis" },
+    { "name": "Famagusta", "match": "famagusta|ammochostos|paralimni|ayia napa|protaras" }
+  ],
+  "noiseCategoryPattern": "locker|post office|parking|corporate office|atm|bank|supermarket|restaurant|hotel|school|university|pharmacy|store$",
+  "highlightCategoryPattern": "freight|import|export|logistics|shipping|customs|cargo|forward|sourcing"
+}
