@@ -1,0 +1,15 @@
+{
+  "title": "Cyprus Packaging & Box Shops",
+  "subtitle": "Packaging boxes and supplies — Limassol and all Cyprus (public price column when Maps lists it)",
+  "resultsFile": "results-with-prices.csv",
+  "regionLabel": "Area",
+  "areas": [
+    { "name": "Limassol", "match": "limassol|lemesos|ypsonas|polemidia|germasogeia|mesa geitonia|agios athanasios|filaxeous" },
+    { "name": "Nicosia", "match": "nicosia|lefkosia|strovolos|lakatamia|egkomi|aglantzia|latsia" },
+    { "name": "Larnaca", "match": "larnaca|larnaka|livadia|aradippou|oroklini" },
+    { "name": "Paphos", "match": "paphos|pafos|geroskipou" },
+    { "name": "Famagusta", "match": "famagusta|ammochostos|paralimni|ayia napa" }
+  ],
+  "noiseCategoryPattern": "restaurant|hotel|supermarket|pharmacy|atm|bank|school",
+  "highlightCategoryPattern": "packaging|shipping|box|corrugated|moving|supply|print"
+}
