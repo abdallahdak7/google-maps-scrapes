@@ -3,49 +3,72 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Google Maps Scrapes</title>
+  <meta name="description" content="Your Google Maps scrape reports">
+  <title>My scrape reports</title>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
-    body { margin: 0; font-family: "DM Sans", system-ui, sans-serif; background: #f4f7f8; color: #0f1c21; }
-    .wrap { max-width: 1080px; margin: 0 auto; padding: 40px 20px 64px; }
-    h1 { font-size: 2.2rem; margin: 0 0 8px; }
-    .lead { color: #5a6b73; margin: 0 0 28px; }
-    .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
-    .card { background: #fff; border: 1px solid #d8e0e4; border-radius: 14px; padding: 18px; box-shadow: 0 12px 40px rgba(15,28,33,.06); }
-    .meta { font-size: 12px; color: #5a6b73; text-transform: uppercase; letter-spacing: .06em; }
-    h2 { font-size: 1.15rem; margin: 8px 0; }
-    h2 a { color: inherit; text-decoration: none; }
-    h2 a:hover { color: #0d6e7a; }
-    .muted { color: #5a6b73; font-size: 13px; margin: 0 0 14px; }
-    .actions { display: flex; gap: 8px; }
-    .btn { font-size: 13px; padding: 8px 12px; border-radius: 999px; border: 1px solid #d8e0e4; text-decoration: none; color: #0f1c21; }
-    .btn.primary { background: #0d6e7a; border-color: #0d6e7a; color: #fff; }
+    body { margin: 0; font-family: "DM Sans", system-ui, sans-serif; background: #eef4f5; color: #0f1c21; }
+    .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 56px; }
+    h1 { font-size: 1.85rem; margin: 0 0 10px; }
+    .lead { color: #5a6b73; margin: 0 0 24px; line-height: 1.5; }
+    .hub { background: #0d6e7a; color: #fff; border-radius: 16px; padding: 20px; margin-bottom: 28px; }
+    .hub p { margin: 0 0 14px; opacity: .95; font-size: 14px; }
+    .hub .btn { display: inline-block; background: #fff; color: #0d6e7a; font-weight: 600; padding: 12px 18px; border-radius: 10px; text-decoration: none; }
+    .grid { display: grid; gap: 18px; }
+    .card { background: #fff; border: 1px solid #d8e0e4; border-radius: 16px; padding: 20px; }
+    h2 { font-size: 1.2rem; margin: 0 0 6px; }
+    .muted { color: #5a6b73; font-size: 13px; margin: 0 0 16px; }
+    .btn { font: inherit; cursor: pointer; border: 1px solid #d8e0e4; background: #fff; border-radius: 10px; padding: 10px 14px; }
+    .btn.primary { background: #0d6e7a; border-color: #0d6e7a; color: #fff; text-decoration: none; text-align: center; }
+    .btn.big { display: block; width: 100%; box-sizing: border-box; margin-bottom: 12px; font-weight: 600; }
+    .url-row { display: flex; gap: 8px; }
+    .url-row input { flex: 1; font: 12px ui-monospace, monospace; padding: 10px; border: 1px solid #d8e0e4; border-radius: 10px; color: #5a6b73; }
+    .copy.ok { border-color: #1a7f4b; color: #1a7f4b; }
   </style>
 </head>
 <body>
   <div class="wrap">
-    <h1>Google Maps Scrapes</h1>
-    <p class="lead">Remote-friendly directory of your saved crawls. Each card opens a searchable HTML report.</p>
+    <h1>My scrape reports</h1>
+    <p class="lead">Bookmark this page on your phone or computer. Do not use the GitHub file browser — it does not run the reports.</p>
+    <div class="hub">
+      <p><strong>Main link</strong> (save this):</p>
+      <a class="btn" href="https://abdallahdak7.github.io/google-maps-scrapes/">https://abdallahdak7.github.io/google-maps-scrapes/</a>
+    </div>
     <div class="grid">
 <article class="card">
-  <div class="meta">2026-09-19 · main</div>
-  <h2><a href="./cyprus-beads-wholesalers/">cyprus-beads-wholesalers</a></h2>
-  <p class="muted">8 businesses · cyprus-beads-wholesalers</p>
-  <div class="actions">
-    <a class="btn primary" href="./cyprus-beads-wholesalers/">Open report</a>
-    <a class="btn" href="./cyprus-beads-wholesalers/results.csv">CSV</a>
+  <h2>cyprus-beads-wholesalers</h2>
+  <p class="muted">8 listings · updated 2026-09-19</p>
+  <a class="btn primary big" href="https://abdallahdak7.github.io/google-maps-scrapes/cyprus-beads-wholesalers/">Open report</a>
+  <div class="url-row">
+    <input type="text" readonly value="https://abdallahdak7.github.io/google-maps-scrapes/cyprus-beads-wholesalers/" aria-label="Report link">
+    <button type="button" class="btn copy" data-copy="https://abdallahdak7.github.io/google-maps-scrapes/cyprus-beads-wholesalers/">Copy link</button>
   </div>
 </article>
 <article class="card">
-  <div class="meta">2026-09-19 · main</div>
-  <h2><a href="./cyprus-logistics/">cyprus-logistics</a></h2>
-  <p class="muted">524 businesses · cyprus-logistics</p>
-  <div class="actions">
-    <a class="btn primary" href="./cyprus-logistics/">Open report</a>
-    <a class="btn" href="./cyprus-logistics/results.csv">CSV</a>
+  <h2>cyprus-logistics</h2>
+  <p class="muted">524 listings · updated 2026-09-19</p>
+  <a class="btn primary big" href="https://abdallahdak7.github.io/google-maps-scrapes/cyprus-logistics/">Open report</a>
+  <div class="url-row">
+    <input type="text" readonly value="https://abdallahdak7.github.io/google-maps-scrapes/cyprus-logistics/" aria-label="Report link">
+    <button type="button" class="btn copy" data-copy="https://abdallahdak7.github.io/google-maps-scrapes/cyprus-logistics/">Copy link</button>
   </div>
 </article>
     </div>
   </div>
+  <script>
+    document.querySelectorAll('[data-copy]').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const text = btn.getAttribute('data-copy');
+        try {
+          await navigator.clipboard.writeText(text);
+          btn.textContent = 'Copied';
+          btn.classList.add('ok');
+          setTimeout(() => { btn.textContent = 'Copy link'; btn.classList.remove('ok'); }, 2000);
+        } catch (e) {
+          prompt('Copy this link:', text);
+        }
+      });
+    });
+  </script>
 </body>
 </html>

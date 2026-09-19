@@ -1,7 +1,16 @@
 # Google Maps scrape reports
 
-Static HTML reports generated from local Google Maps crawls.
+## Open your reports (use this, not the file list)
 
-**Do not commit secrets.** This repo is intended for GitHub Pages.
+### 👉 [Open reports website](https://abdallahdak7.github.io/google-maps-scrapes/)
 
-Last updated: 2026-09-19 07:04 UTC
+| Report | Link |
+|--------|------|
+| **All reports (home)** | https://abdallahdak7.github.io/google-maps-scrapes/ |
+| cyprus-beads-wholesalers | https://abdallahdak7.github.io/google-maps-scrapes/cyprus-beads-wholesalers/ |
+| cyprus-logistics | https://abdallahdak7.github.io/google-maps-scrapes/cyprus-logistics/ |
+
+On GitHub.com you only see raw files. The **website** link above opens the searchable HTML reports.
+
+Last updated: 2026-09-19 07:08 UTC
+
