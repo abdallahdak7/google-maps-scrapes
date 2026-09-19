@@ -1,0 +1,232 @@
+{
+  "use_case": "Bulk retail boxes for beaded bags (~20×17×10 cm interior)",
+  "suggested_outer_box": "~22×19×12 cm mailer/rigid box (confirm with supplier)",
+  "min_score": 55,
+  "count": 28,
+  "entries": [
+    {
+      "title": "Paperchoice",
+      "score": 90,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 25 828938",
+      "address": "Bragadinou 27, Limassol, Lemesos 3041, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Bake & Pack T.E.A.M Ltd",
+      "score": 90,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 25 752021",
+      "address": "Michael Pselou 5, Agios Athanasios, Lemesos 4101, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Metron",
+      "score": 90,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 99 624550",
+      "address": "Mesa Geitonia, Lemesos 4008, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Hellenic Packaging",
+      "score": 90,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 97 997920",
+      "address": "Omonoias 13, Limassol, Lemesos 3052, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "AD Multipack",
+      "score": 90,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 25 722732",
+      "address": "Iakovou Katsounotou 21, Ypsonas, Lemesos 4193, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Ecopak Ltd.",
+      "score": 90,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 25 568650",
+      "address": "2 Iacovou Katsounotou, 3rd Industrial Area, Agios Sylas, Ypsonas 4193, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Sigma Packaging Products",
+      "score": 90,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 25 563478",
+      "address": "M2FF+8GG Sigma Packaging Products, Ioanni kai Aikaterinis Schiza, Limassol, Lemesos 3012, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Dynamec",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 22 466050",
+      "address": "Kolokotroni 34A, Nicosia, Lefkosia 1037, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Dynamec Central Store",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 22 318881",
+      "address": "Kyriakou Matsi 47, Nicosia, Lefkosia 1085, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "K.S. COUPPAS LTD",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 22 764847",
+      "address": "Aristofanous 4, Nicosia, Lefkosia 1015, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Cartopack ltd",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 99 646176",
+      "address": "Armenias 14, Nicosia, Lefkosia 2003, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Kelifos Exclusive Packaging",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 22 210696",
+      "address": "Ilia Papakiriakou, Egkomi, Lefkosia 2415, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Onergo Solutions",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 24 102300",
+      "address": "Αγ. Παντελεημονος και, Antistaseos, Dromolaxia 7020, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Megapack ltd",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 22 446262",
+      "address": "Παγκρατίου 5, Strovolos, Lefkosia 2033, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "ArnosTech Ltd",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 99 902389",
+      "address": "Vathylaka 8, Strovolos, Lefkosia 2033, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Allbox | Paper Packaging and Printing",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 22 763821",
+      "address": "Armenias, Nicosia, Lefkosia 2003, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "PIP - P. IOANNIDES PACKAGING LTD",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 24 823260",
+      "address": "Larnaca Industrial Estate, Troodous 2, Larnaca, Larnaka 7101, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "M&G INTERPACK PACKAGE SUPPLIERS LTD",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 22 574716",
+      "address": "Tripoleos, Latsia, Lefkosia 2235, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Let's print cy",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 99 023778",
+      "address": "Promitheos 12-unit 4, Larnaca, Larnaka 7101, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "NIKOPLAST LTD",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 22 461116",
+      "address": "12, Diorios street, Dali Industrial Zone, Nicosia 2540, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Birch Enterprises",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 22 481995",
+      "address": "Aretis 1, Nisou, Lefkosia 2571, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Κelifos exclusive packaging",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 22 210696",
+      "address": "Λεωφ. Αρχιεπισκόπου Μακαρίου Γ' 67Γ, Nicosia, Lefkosia 1070, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Geopack Cyprus",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 70 001046",
+      "address": "Archiepiskopou Paisiou 71A, Larnaca, Larnaka 6041, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "PULPACK",
+      "score": 75,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 95 137119",
+      "address": "Pindarou 34, Aradippou, Larnaka 7100, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "KEDROPACK - Luxury Packaging LTD.",
+      "score": 70,
+      "bulk_packaging_fit": "high",
+      "phone": "+357 95 724433",
+      "address": "16, MIXALAKI PARIDI 7510, Xylotymvou, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "ArnosTech Ltd",
+      "score": 70,
+      "bulk_packaging_fit": "high",
+      "phone": "",
+      "address": "Kykladon 1, Latsia, Lefkosia 2234, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Morpack Cyprus",
+      "score": 65,
+      "bulk_packaging_fit": "medium",
+      "phone": "+357 25 434000",
+      "address": "iliou, Street, Lemesos 3056, Cyprus",
+      "price_compare": "not disclosed"
+    },
+    {
+      "title": "Elipack 'The Packaging Specialists' (Offices and Warehouse)",
+      "score": 65,
+      "bulk_packaging_fit": "medium",
+      "phone": "+357 25 020333",
+      "address": "Anexartisias 14, Ypsonas, Lemesos 4180, Cyprus",
+      "price_compare": "not disclosed"
+    }
+  ]
+}

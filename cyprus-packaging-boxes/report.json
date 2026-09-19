@@ -1,15 +1,15 @@
 {
-  "title": "Cyprus Packaging & Box Shops",
-  "subtitle": "Packaging boxes and supplies — Limassol and all Cyprus (public price column when Maps lists it)",
-  "resultsFile": "results-with-prices.csv",
+  "title": "Cyprus bulk box suppliers (beaded bags)",
+  "subtitle": "For ~20×17×10 cm bags — ask suppliers for ~22×19×12 cm mailer/rigid boxes, bulk MOQ. Curated list; price_compare when publicly listed.",
+  "resultsFile": "curated-results.csv",
   "regionLabel": "Area",
   "areas": [
-    { "name": "Limassol", "match": "limassol|lemesos|ypsonas|polemidia|germasogeia|mesa geitonia|agios athanasios|filaxeous" },
+    { "name": "Limassol", "match": "limassol|lemesos|ypsonas|polemidia|germasogeia|mesa geitonia|agios athanasios|filaxeous|kato polemidia" },
     { "name": "Nicosia", "match": "nicosia|lefkosia|strovolos|lakatamia|egkomi|aglantzia|latsia" },
     { "name": "Larnaca", "match": "larnaca|larnaka|livadia|aradippou|oroklini" },
     { "name": "Paphos", "match": "paphos|pafos|geroskipou" },
     { "name": "Famagusta", "match": "famagusta|ammochostos|paralimni|ayia napa" }
   ],
-  "noiseCategoryPattern": "restaurant|hotel|supermarket|pharmacy|atm|bank|school",
-  "highlightCategoryPattern": "packaging|shipping|box|corrugated|moving|supply|print"
+  "noiseCategoryPattern": "courier|locker|mover|moving|storage|transport|toy|restaurant",
+  "highlightCategoryPattern": "packaging|box|corrugated|gift|paperchoice|elipack|morpack|print"
 }
