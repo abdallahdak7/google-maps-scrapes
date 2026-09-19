@@ -2,16 +2,16 @@
 
 ## Open your reports (use this, not the file list)
 
-### 👉 [Open reports website](https://abdallahdak7.github.io/google-maps-scrapes/)
+### 👉 <a href="https://abdallahdak7.github.io/google-maps-scrapes/" target="_blank" rel="noopener noreferrer">Open reports website</a>
 
-| Report | Link |
+| Report | Link (opens in new tab) |
 |--------|------|
-| **All reports (home)** | https://abdallahdak7.github.io/google-maps-scrapes/ |
-| cyprus-packaging-boxes | https://abdallahdak7.github.io/google-maps-scrapes/cyprus-packaging-boxes/ |
-| cyprus-beads-wholesalers | https://abdallahdak7.github.io/google-maps-scrapes/cyprus-beads-wholesalers/ |
-| cyprus-logistics | https://abdallahdak7.github.io/google-maps-scrapes/cyprus-logistics/ |
+| **All reports (home)** | <a href="https://abdallahdak7.github.io/google-maps-scrapes/" target="_blank" rel="noopener noreferrer">https://abdallahdak7.github.io/google-maps-scrapes/</a> |
+| cyprus-packaging-boxes | <a href="https://abdallahdak7.github.io/google-maps-scrapes/cyprus-packaging-boxes/" target="_blank" rel="noopener noreferrer">Open report</a> |
+| cyprus-beads-wholesalers | <a href="https://abdallahdak7.github.io/google-maps-scrapes/cyprus-beads-wholesalers/" target="_blank" rel="noopener noreferrer">Open report</a> |
+| cyprus-logistics | <a href="https://abdallahdak7.github.io/google-maps-scrapes/cyprus-logistics/" target="_blank" rel="noopener noreferrer">Open report</a> |
 
 On GitHub.com you only see raw files. The **website** link above opens the searchable HTML reports.
 
-Last updated: 2026-09-19 07:49 UTC
+Last updated: 2026-09-19 08:26 UTC
 
